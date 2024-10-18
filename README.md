@@ -10,4 +10,4 @@ This project lets you turn your pictures into anime-style illustrations using St
 
 ## Demo Output
 
-<img src="https://raw.githubusercontent.com/Ankushdas178/Image-to-Anime/refs/heads/main/Image%20to%20Anime-2.png"/>
+<img src="https://raw.githubusercontent.com/Ankushdas178/Image-to-Anime/refs/heads/main/image%20desc%201.png"/>
